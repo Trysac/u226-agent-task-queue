@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added in-memory priority task queue with leases, tokens, exponential backoff, bounded dead list, and injected clock.
 - Initial project structure from the factory utility template.
